@@ -7,6 +7,6 @@
 [[redirects]]
   from = "/*"
   query = {imgcdn = "true"}
-  to = "/.netlify/images?url=/:splat&fm=webp"
+  to = "/.services/images?url=/:splat&fm=webp"
   status = 200
   force = true
